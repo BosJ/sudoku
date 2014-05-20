@@ -1,7 +1,7 @@
 
 {-|
 Module      : Main
-Copyright   : (c) Jaco Bos bos.jch@gmail.com, 2014
+Copyright   : (c) Jaco Bos, 2014
 License     : see libraries/base/LICENSE
 Maintainer  : University of Twente
 Stability   : experimental
